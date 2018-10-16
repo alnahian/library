@@ -11,8 +11,8 @@
  <div class="col-md-12">
     <div class="panel">
       <div class="jumbotron text-center">
-         <h1>This is your new home page!</h1>
-         <p>Just browes around and find out what page you can access.</p>
+         <h1></h1>
+         <p>This is your homepage</p>
       </div>
     </div>
  </div>
